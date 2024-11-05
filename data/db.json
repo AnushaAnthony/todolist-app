@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "content": "Visit balachandra.in"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "content": "Blockchain"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "content": "AI"
+    },
+    {
+      "id": "31",
+      "checked": false,
+      "content": "Anusha"
+    }
+  ]
+}
